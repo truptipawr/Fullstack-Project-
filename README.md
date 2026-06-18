@@ -63,10 +63,13 @@ The Store Rating App is a full-stack web application that allows users to browse
 * Analytics dashboard
 * Mobile responsiveness improvements
 
-## 👩‍💻 Author
+## Author
 
 **Trupti Pawar**
-
 Computer Engineering Graduate (2026)
+
+**For Admin Login**
+Email: admin@storeapp.com
+Password: Admin@1234
 
 
