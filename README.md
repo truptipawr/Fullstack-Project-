@@ -70,6 +70,7 @@ Computer Engineering Graduate (2026)
 
 **For Admin Login**
 Email: admin@storeapp.com
+
 Password: Admin@1234
 
 
